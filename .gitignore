@@ -1,0 +1,13 @@
+# PlatformIO build output
+.pio/
+
+# Claude Code internal files
+.claude/
+
+# VSCode generated files
+.vscode/.browse.c_cpp.db*
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/ipch
+
+# Fill in your own credentials in src/config.h before building
